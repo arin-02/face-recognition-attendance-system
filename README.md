@@ -21,7 +21,7 @@ An attendance tracking application with facial recognition.
 * Further, the backend generates 128 measurement values that are unique for each face, this database is then searched for a specific search key. The webcam detects the face of the student and marks their attendance. 
  
 
-## HOW TO USE THIS WEB-APP:_
+## HOW TO USE THIS WEB-APP:-
 
 ### Lecturer
 1. Register an account.
@@ -74,3 +74,13 @@ Share this code with Students.
 ![s3](https://user-images.githubusercontent.com/90857324/170871814-c935c66e-d5b4-4e82-8051-d99e6129e647.jpg)
 ![s4](https://user-images.githubusercontent.com/90857324/170871817-61902301-b709-4a94-b447-83306ba845a0.png)
 ![s5](https://user-images.githubusercontent.com/90857324/170871820-14e142f2-1bf8-456e-a6b9-56aa934926f0.png)
+
+## TECH STACK:-
+* Javascript
+* ReactJs
+* face-api.js
+* Redux
+* NodeJs
+* ExpressJs
+* MongoDB
+* GraphQL
