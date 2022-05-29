@@ -1,7 +1,28 @@
 # ATTENDANCE SYSTEM
 An attendance tracking application with facial recognition.
 
-## User Guidelines
+## Problem statement!
+->Need of attendance system.
+
+->Proxies need to be avoided.
+
+->Attendance of students is missed by the teachers.
+
+->Attendance system using face recognition in online classes.
+
+## SOLUTION
+->The given project is designed with the intention to solve a day to day problem. As one might have experienced, taking attendance in offline mode is time consuming and cumbersome.
+
+->To tackle this problem, we've come up with a solution. The given project is simple to use but is effective. The target audience can be divided into two parts: teachers and students. 
+ 
+->The latter is required to register on the app and upload information like name, roll number, section and photograph, which will be stored on the database at backend.
+ The app comes in handy for the teacher, as it can be used for automated attendance.
+ 
+->Further, the backend generates 128 measurement values that are unique for each face, this database is then searched for a specific search key. The webcam detects the face of the student and marks their attendance. 
+ 
+
+## HOW TO USE THIS WEB-APP:_
+
 ### Lecturer
 1. Register an account.
 2. Create a course.
