@@ -28,7 +28,9 @@ An attendance tracking application with facial recognition.
 
 ![t3](https://user-images.githubusercontent.com/90857324/170871768-26cef204-67a2-4692-89ff-5f4abaa46488.jpg)
 ![t4](https://user-images.githubusercontent.com/90857324/170871776-9aaa8b08-d4e8-400b-9545-5466fbd3d745.png)
+
 Share this code with Students.
+
 ![t5](https://user-images.githubusercontent.com/90857324/170871780-173f8be8-dd13-42f3-8e0a-23a42c788689.png)
 ![t6](https://user-images.githubusercontent.com/90857324/170871784-4c4da224-e99f-459e-97a7-fb067d14f623.png)
 
